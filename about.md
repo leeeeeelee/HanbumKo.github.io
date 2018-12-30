@@ -1,17 +1,9 @@
 ---
 layout: page
-title: Hanbum Ko
-permalink: /about/
+title: "About"
+description: "Why use Project Pages?"
+header-img: "img/home-bg.jpg"
 ---
 
-This blog is for sharing my knowledges with other people.
-
-Knowledges are related with Computer Science Engineering, But specifically I'm interested in computervision problems, image processing.
-
-Sometimes I will post Statistical knowledges too.
-
-
-
-hanbum.ko95@gmail.com
-
-Daejeon, Chungnam National University
+Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+	
